@@ -4,4 +4,6 @@
 - 🥰 Web-developer using ASP.Net Core, Vue.js
 - 🥰 1st year Master's student of ITMO University
 
-- 💬 waiting for your messages in Telegram: @piufki2
+
+
+  💬 waiting for your messages in Telegram: @piufki2
